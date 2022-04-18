@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/02/09 13:24:04.000.645,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/02/09 13:24:04.000.754,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/02/28 08:54:26.000.215,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/02/28 08:54:26.000.194,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/18 11:06:54.711,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/18 11:06:54.846,=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/04/18 11:08:55.049,C:\Users\avillegas.SETEL\Documents\zeromqborland\Unit1.cpp=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2022/04/18 11:08:55.049,C:\Users\avillegas.SETEL\Documents\zeromqborland\Unit1.h=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2022/04/18 11:08:55.049,C:\Users\avillegas.SETEL\Documents\zeromqborland\Unit1.dfm=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2022/04/18 11:08:56.332,C:\Users\avillegas.SETEL\Documents\zeromqborland\Project1PCH1.h=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2022/04/18 11:08:57.472,C:\Users\avillegas.SETEL\Documents\zeromqborland\Project1.cbproj=C:\Users\avillegas.SETEL\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2022/04/18 11:09:47.433,=C:\Users\avillegas.SETEL\Downloads\Delphi-ZeroMQ-master\ZeroMQ.API.pas</Transaction>
+    <Transaction>2022/04/18 11:09:47.436,=C:\Users\avillegas.SETEL\Downloads\Delphi-ZeroMQ-master\ZeroMQ.pas</Transaction>
+    <Transaction>2022/04/18 11:09:57.716,C:\Users\avillegas.SETEL\Downloads\Delphi-ZeroMQ-master\ZeroMQ.API.pas=</Transaction>
+    <Transaction>2022/04/18 11:10:00.483,C:\Users\avillegas.SETEL\Downloads\Delphi-ZeroMQ-master\ZeroMQ.pas=</Transaction>
+    <Transaction>2022/04/18 11:10:19.501,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.pas</Transaction>
+    <Transaction>2022/04/18 11:10:19.523,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.pas</Transaction>
+    <Transaction>2022/04/18 11:14:03.994,=C:\Users\avillegas.SETEL\Documents\zeromqborland\libzmq.lib</Transaction>
+    <Transaction>2022/04/18 11:15:12.603,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.hpp</Transaction>
+    <Transaction>2022/04/18 11:15:12.647,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.hpp</Transaction>
+    <Transaction>2022/04/18 11:22:33.207,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.hpp=</Transaction>
+    <Transaction>2022/04/18 11:22:33.247,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.pas=</Transaction>
+    <Transaction>2022/04/18 11:22:33.272,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.hpp=</Transaction>
+    <Transaction>2022/04/18 11:22:33.278,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.pas=</Transaction>
+    <Transaction>2022/04/18 11:22:52.724,=C:\Users\avillegas.SETEL\Documents\zeromqborland\zmq.h</Transaction>
+    <Transaction>2022/04/18 11:23:55.055,C:\Users\avillegas.SETEL\Documents\zeromqborland\zmq.h=</Transaction>
+    <Transaction>2022/04/18 11:24:07.405,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.hpp</Transaction>
+    <Transaction>2022/04/18 11:24:07.442,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.pas</Transaction>
+    <Transaction>2022/04/18 11:24:07.478,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.hpp</Transaction>
+    <Transaction>2022/04/18 11:24:07.529,=C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.pas</Transaction>
+    <Transaction>2022/04/18 11:29:18.672,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.hpp=</Transaction>
+    <Transaction>2022/04/18 11:29:22.948,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.pas=</Transaction>
+    <Transaction>2022/04/18 11:32:20.716,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.pas=</Transaction>
+    <Transaction>2022/04/18 11:37:46.263,=C:\Users\avillegas.SETEL\Documents\zeromqborland\zmq.h</Transaction>
+    <Transaction>2022/04/18 11:37:58.985,C:\Users\avillegas.SETEL\Documents\zeromqborland\ZeroMQ.API.hpp=</Transaction>
+    <Transaction>2022/04/18 12:06:58.600,=C:\Users\avillegas.SETEL\Documents\zeromqborland\zmq.hpp</Transaction>
+  </Transactions>
+</BorlandProject>
