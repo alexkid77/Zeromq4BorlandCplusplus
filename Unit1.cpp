@@ -10,6 +10,11 @@
 #pragma package(smart_init)
 #pragma resource "*.dfm"
 TForm1 *Form1;
+ typedef struct
+ {
+	char Name[40];
+	int Val;
+ }SPrueba;
 //---------------------------------------------------------------------------
 __fastcall TForm1::TForm1(TComponent* Owner)
 	: TForm(Owner)
@@ -31,16 +36,20 @@ __fastcall TForm1::TForm1(TComponent* Owner)
 	 zmq::context_t context{1};
 
     // construct a REP (reply) socket and bind to interface
-	zmq::socket_t socket{context, zmq::socket_type::radio};
-	socket.bind("udp://*:5555");
+	zmq::socket_t socket{context, zmq::socket_type::pub};
+	socket.bind("tcp://*:5555");
 
+	SPrueba frame;
+	memset(frame.Name,0x00,sizeof(frame.Name));
+	char *strTest= "hola mundo";
+	memcpy(frame.Name,strTest,sizeof(strTest));
 	// prepare some static data for responses
 	const std::string data{"World"};
 
 	for (;;)
     {
 	 socket.send(zmq::str_buffer("A"), zmq::send_flags::sndmore);
-	 socket.send(zmq::str_buffer("Message in A envelope"));
+	 socket.send(&frame,sizeof(frame));
 	 Sleep (1);
 	}
 

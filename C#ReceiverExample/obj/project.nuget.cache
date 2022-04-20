@@ -1,0 +1,42 @@
+{
+  "version": 2,
+  "dgSpecHash": "s/w9ZL4ZS40iC1LUPKGcIafzDMmDi58JPxeYxcgdFZao0WeFmZ130l4/GYwlqDc4X2gMoIY2qWHAaA7YL4SbHQ==",
+  "success": true,
+  "projectFilePath": "C:\\setelsa\\alsyswin\\Alsyswin2010\\INTEGRACIONES\\Dresina\\SrcNet\\ConsoleApp2\\ConsoleApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\asyncio\\0.1.69\\asyncio.0.1.69.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\5.0.0\\microsoft.bcl.asyncinterfaces.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.10\\microsoft.extensions.objectpool.5.0.10.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\nacl.net\\0.1.13\\nacl.net.0.1.13.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\netmq\\4.0.1.8\\netmq.4.0.1.8.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.drawing.common\\5.0.0\\system.drawing.common.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.formats.asn1\\5.0.0\\system.formats.asn1.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.private.servicemodel\\4.9.0\\system.private.servicemodel.4.9.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.reflection.dispatchproxy\\4.7.1\\system.reflection.dispatchproxy.4.7.1.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.cryptography.cng\\5.0.0\\system.security.cryptography.cng.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.cryptography.pkcs\\5.0.0\\system.security.cryptography.pkcs.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.cryptography.xml\\5.0.0\\system.security.cryptography.xml.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.permissions\\5.0.0\\system.security.permissions.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.servicemodel.primitives\\4.9.0\\system.servicemodel.primitives.4.9.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\system.windows.extensions\\5.0.0\\system.windows.extensions.5.0.0.nupkg.sha512",
+    "C:\\Users\\avillegas.SETEL\\.nuget\\packages\\zeromq\\4.1.0.31\\zeromq.4.1.0.31.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "El paquete \"ZeroMQ 4.1.0.31\" se restauró con \".NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8\" en lugar de la plataforma de destino del proyecto \"net6.0\". Puede que el paquete no sea totalmente compatible con el proyecto.",
+      "libraryId": "ZeroMQ",
+      "targetGraphs": [
+        "net6.0"
+      ]
+    }
+  ]
+}
